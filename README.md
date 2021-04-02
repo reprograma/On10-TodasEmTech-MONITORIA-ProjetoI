@@ -2,7 +2,7 @@
 
 ##Git
 
-**1.** Entrar no repositório e fazer o fork do repositório On10-TodasEmTech-ProjetoMdeMaravilhosa
+**1.** Entrar no repositório e fazer o fork.
 
    Link: [Repositório](https://github.com/reprograma/On10-TodasEmTech-MONITORIA-ProjetoI)
 
